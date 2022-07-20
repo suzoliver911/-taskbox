@@ -1,0 +1,5 @@
+{
+  "maxgrafik.DocBlockr.workspace.enableJS" : true,
+  "maxgrafik.DocBlockr.workspace.enableTS" : true,
+  "todo.workspace-case-sensitive-tag-matching" : "Upper Case Only"
+}
